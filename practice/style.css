@@ -1,0 +1,39 @@
+*{
+     padding:0;
+     margin:0;
+     box-sizing:border-box;
+     font-family:gilroy;
+}
+html,
+body{
+height: 100%;
+width: 100%;
+}
+/* #bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+margin: 50px;
+
+} */
+ /* h1{
+    font-size: 70px;
+    /* font weight font ko dark bnane ke liye use hote h 
+    font-weight: 800;
+ } */
+
+ #box
+ {
+    height: 300px;
+    width: 300px;
+    background-color: salmon;
+
+ }
+ h1{
+    color: royalblue;
+ }
